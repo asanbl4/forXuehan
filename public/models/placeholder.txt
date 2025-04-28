@@ -1,0 +1,2 @@
+This directory will contain 3D models in GLB format.
+Since we can't directly upload binary files, we'll use sample models from CDNs in our app. 
